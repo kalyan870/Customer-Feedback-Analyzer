@@ -57,3 +57,6 @@ This project is actively evolving as I improve the analysis workflow, evaluation
 Built by [Kalyan](https://github.com/kalyan870).
 
 If this project is useful, consider trying the demo and sharing feedback.
+## Repository status and reproducibility
+
+This repository currently contains the overview, workflow notes, and presentation images, but not the application source or install files. The architecture above is a product workflow, not a verified code diagram. The hosted demo link is retained from the original project notes; availability may change. Add the frontend/backend source, model configuration, sample data, and run instructions to make the project reproducible.
